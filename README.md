@@ -1,1 +1,2 @@
-earth
+earth 3d globe model
+
